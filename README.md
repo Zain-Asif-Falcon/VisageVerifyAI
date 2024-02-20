@@ -11,7 +11,7 @@ This Python script utilizes computer vision techniques and machine learning mode
 
 ## Requirements
 - Python 3.x
-- OpenCV (cv2)
+- OpenCV 
 - NumPy
 - Mediapipe
 - Keras Facenet
